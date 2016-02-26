@@ -1,0 +1,56 @@
+body {
+    background-color: lightgrey;
+    background: url(https://i.ytimg.com/vi/DS9SFmYSQms/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#Title1 {
+    color: darkred;
+    font-family: font-family: 'Bangers', cursive;
+    font-size: 5em;
+    text-align: center;
+}
+#Title2 {
+    font-family: "Times New Roman";
+    font-size: 1.5em;
+    color : #c7a800;
+    text-align: center;
+}
+p {
+  font-family: "Ariel";
+  font-size: 17px;
+  color: black;
+  text-align: justify;
+}
+
+
+.hoverTable{
+		width:100%;
+		border-collapse:collapse;
+	}
+.hoverTable td{
+		padding:7px; border:#4e95f4 3px solid;
+	}
+	/* Define the default color for all the table rows */
+.hoverTable tr{
+		background: #b8d1f3;
+	}
+	/* Define the hover highlight color for the table row */
+.hoverTable tr:hover {
+          background-color: #ffff99;
+    }
+
+
+#Swag {
+  width: 855px;
+  margin:0 auto;
+  text-align: center;
+}
